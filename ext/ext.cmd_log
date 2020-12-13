@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/store/ext/ext.xst" -ofn "C:/store/ext/ext.syr" 
